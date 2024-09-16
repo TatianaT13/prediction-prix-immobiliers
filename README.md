@@ -15,7 +15,7 @@ Ce projet vise à prédire les prix des maisons en utilisant un modèle de régr
 
 1. Clonez le dépôt :
     ```bash
-    git clone https://github.com/votre-utilisateur/prediction-prix-immobiliers.git
+    git clone https://github.com/TatianaT13/prediction-prix-immobiliers
     ```
 2. Naviguez dans le dossier du projet :
     ```bash
