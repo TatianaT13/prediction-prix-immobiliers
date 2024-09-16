@@ -1,0 +1,6 @@
+env/
+.venv
+pycache/
+*.pyc
+*.ipynb_checkpoints
+data/housing.csv

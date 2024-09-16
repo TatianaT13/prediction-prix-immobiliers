@@ -1,0 +1,7 @@
+# Liste des dépendances nécessaires :
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
